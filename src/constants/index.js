@@ -7,7 +7,7 @@ export const PERSONAL_INFO = {
     experience: "2 Years",
     email: "ak93068185@gmail.com",
     social: {
-        github: "#", // Placeholder as requested
+        github: "https://github.com/amitkumar1205-star",
         linkedin: "http://www.linkedin.com/in/amit-kumar-295a07298",
     }
 };
